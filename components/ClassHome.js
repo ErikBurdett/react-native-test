@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import {StyleSheet, View, Text, Button} from 'react-native'
-
+//comment for heroku commit
 class ClassHome extends Component {
 
     state = {
